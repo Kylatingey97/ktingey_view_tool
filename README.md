@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KtingeyViewtool::Renderer.copyright 'Kyla Tingey', 'All rights reserved'
+```
 
 ## Development
 
