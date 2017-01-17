@@ -1,6 +1,6 @@
 # KtingeyViewTool
 
-> Various view specific methods for applications I use.
+> Various view specific methods for the applications I use.
 
 ## Installation
 
